@@ -32,7 +32,7 @@ const Hero = () => {
         </p>
         <div className="my-8">
           <a
-            href="https://drive.google.com/file/d/1iu3p5gSfqMuxKc10Mgzlbvc-lR-TtNOn/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1QHJKW5MztyDgu8R_eu-pKLGKvmKuB36G/view?usp=sharing"
             className="px-6 py-3 w-full mr-4 rounded-xl bg-gradient-to-br from-orange-500 to-pink-500 text-white"
           >
             Download Resume
