@@ -3,6 +3,7 @@
 Welcome to the repository of my personal portfolio website! This project showcases my skills, experience, recent projects, and technical journey in a clean, responsive, and modern interface.
 
 🔗 **Live Demo:** [jh9amn.github.io/portfolio/](https://jh9amn.github.io/portfolio/)
+🔗 **Live Demo:** [aws-static-portfolio](http://app-prod-jh9amn-portfoliio.s3-website-us-east-1.amazonaws.com)
 
 ---
 
