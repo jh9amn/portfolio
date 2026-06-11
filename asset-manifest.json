@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.05390331.css",
-    "main.js": "/portfolio/static/js/main.e1056208.js",
+    "main.js": "/portfolio/static/js/main.ea104664.js",
     "static/media/Netflix-gpt.jpg": "/portfolio/static/media/Netflix-gpt.fafd3f215fb8517cc7bd.jpg",
     "static/media/Movix.jpg": "/portfolio/static/media/Movix.9cee60fcf64cf0a44f98.jpg",
     "static/media/Youtube.jpg": "/portfolio/static/media/Youtube.53f01de6dd94abe9c82c.jpg",
@@ -12,10 +12,10 @@
     "static/media/about.jpg": "/portfolio/static/media/about.58c937d5aecc886c2ff3.jpg",
     "index.html": "/portfolio/index.html",
     "main.05390331.css.map": "/portfolio/static/css/main.05390331.css.map",
-    "main.e1056208.js.map": "/portfolio/static/js/main.e1056208.js.map"
+    "main.ea104664.js.map": "/portfolio/static/js/main.ea104664.js.map"
   },
   "entrypoints": [
     "static/css/main.05390331.css",
-    "static/js/main.e1056208.js"
+    "static/js/main.ea104664.js"
   ]
 }
