@@ -10,7 +10,7 @@ const Footer = () => {
       <footer className="max-w-[1200px] sm:h-[150px] p-5 flex flex-col justify-center items-center gap-4 md:flex-row md:justify-between md:items-center mx-auto text-slate-400">
         {/* Branding Name */}
         <span className="font-semibold text-slate-200 text-lg tracking-wide hover:text-white transition-colors duration-300 cursor-default">
-          Aman Kumar Jha
+          Aman Kumar
         </span>
 
         {/* Heart Note */}
