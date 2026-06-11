@@ -1,34 +1,33 @@
-## Host On Github...
-- Link: https://jhaman-09.github.io/portfolio/
+# 🌐 Developer Portfolio
 
-> Upload files to github
+Welcome to the repository of my personal portfolio website! This project showcases my skills, experience, recent projects, and technical journey in a clean, responsive, and modern interface.
 
-        git inint
-        git status
-        git add .
-        git commit -m "initial commit"
-        git branch -M 'main
-        git remote add origin "url"
-        git push -u origin 'main'
+🔗 **Live Demo:** [jh9amn.github.io/portfolio/](https://jh9amn.github.io/portfolio/)
 
-> Install package
+---
 
-        npm install gh-pages --save-dev 
+## 🚀 Features
 
-> Create website-url like : "https://jhaman-09.github.io/portfolio"
+* **Responsive Design:** Fully optimized for all screen sizes (Desktop, Tablet, Mobile).
+* **Project Showcase:** A curated list of my technical projects with direct links to live demos and source code.
+* **Skill Matrix:** A visual overview of my technical stack and expertise.
+* **Contact Integration:** Easy-to-use links to connect with me across professional platforms.
 
-        {
-          "homepage" : "website-url"
-          "name": "food",
-          "version": "0.1.0",
-          "private": true,    
+---
 
-          scripts {               
-            "predeploy":"npm run build"
-            "deploy":"gh-pages -d build"
-          }
-        }
+## 🛠️ Built With
 
-> Now Deploye it
+* **Frontend:** React.js / HTML5 / CSS3 / JavaScript
+* **Styling:** Modern, clean layout focusing on readability and smooth user experience
+* **Deployment:** GitHub Pages
 
-        npm run deploy
+---
+
+## 📦 Local Development
+
+If you want to run this project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/jh9amn/portfolio.git](https://github.com/jh9amn/portfolio.git)
+   cd portfolio

@@ -13,11 +13,11 @@ const Hero = () => {
           <span className="primary-color">I'm a</span>
           <TypeAnimation
             sequence={[
-              " Frontend Dev",
+              " MERN Developer",
               1000,
-              " Webdesigner",
+              " AI Enthusiast",
               1000,
-              " MERN Dev",
+              " Cloud Architect",
               1000,
             ]}
             wrapper="span"
@@ -32,7 +32,7 @@ const Hero = () => {
         </p>
         <div className="my-8">
           <a
-            href="https://drive.google.com/file/d/1QHJKW5MztyDgu8R_eu-pKLGKvmKuB36G/view?usp=sharing"
+            href="https://drive.google.com/file/d/1aQQf7gZKv1GvTs0O8om4wJhds-TpYuXQ/view?usp=sharing"
             className="px-6 py-3 w-full mr-4 rounded-xl bg-gradient-to-br from-orange-500 to-pink-500 text-white"
           >
             Download Resume
